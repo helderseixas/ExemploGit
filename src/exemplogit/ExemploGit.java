@@ -19,6 +19,8 @@ public class ExemploGit {
         System.out.println("Teste git!");
         System.out.println("Modificação Fellype");
         System.out.println("Modificação Jean Carlos");
+        System.out.println("Modificação Hélder");
+        System.out.println("Modificação Amauri Pereira");
     }
     
 }
